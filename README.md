@@ -11,6 +11,9 @@ This is a dir that anyone can view the code about R and as you can see clearly,i
 * K Nearest Neighbor
 * K-means
 * Association Rules
+* Regression Tree
+* Random forest
+* XG Boost
 
 ## ggplot2 coming up
 
